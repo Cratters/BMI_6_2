@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="bmi_height">Height(cm)</string>
+    <string name="bmi_weight">Weight(kg)</string>
+    <string name="bmi_btn">Calculate BMI</string>
+    <string name="about_title">About Android BMI</string>
+    <string name="about_msg">Android BMI</string>
+    <string name="report_back">Back</string>
+</resources>
